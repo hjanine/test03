@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="/UpLift/Services/up.plat-svc.fcs" value="PREVIEW" />
+        <entry key="/UpLift/Template/up.template.plat-svc01" value="PREVIEW" />
+        <entry key="/UpLift/Template/up.template.plat-svc01.interfaces" value="PREVIEW" />
+        <entry key="/UpLift/common/up.plat-svc.common" value="PREVIEW" />
+        <entry key="/UpLift/starter/up.plat-svc.starter" value="PREVIEW" />
+        <entry key="/UpLift/up.plat-svc.fcs" value="PREVIEW" />
+        <entry key="/UpLift/up.plat-svc.fds" value="PREVIEW" />
+        <entry key="/UpLift/up.plat-svc.fds.stripe" value="PREVIEW" />
+        <entry key="/UpLift/up.plat-svc.fds.uatp" value="PREVIEW" />
+        <entry key="/UpLift/up.plat-svc.fds.wex" value="PREVIEW" />
+        <entry key="/UpLift/up.plat-svc.tools" value="PREVIEW" />
+        <entry key="/UpLift/up.plat-svc.uatp-parent" value="PREVIEW" />
+        <entry key="/UpLift/up.servicing.agna" value="PREVIEW" />
+        <entry key="/UpLift/up.template.plat-svc01" value="PREVIEW" />
+        <entry key="/UpLift/up.template.plat-svc01.interfaces" value="PREVIEW" />
+        <entry key="$USER_HOME$/up.plat-svc.fds.stripe_1.0" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Properties" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
