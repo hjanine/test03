@@ -1,3 +1,5 @@
 public class Controller {
-    private int num;
+    private int notnum;
+    //should be id
+    private String id;
 }
