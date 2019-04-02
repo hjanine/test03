@@ -6,4 +6,7 @@ public class Controller {
     public Controller() {
         this.num = 0;
     }
+    private void setuo() {
+        
+    }
 }
